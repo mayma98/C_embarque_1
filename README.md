@@ -1,12 +1,12 @@
-Lab 1 : Calcul de la moyenne de deux matières
+Lab 1 : Calcul de la moyenne de deux matières//
 Description : un programme en C qui permet à l'utilisateur de saisir les notes de deux matières ainsi que leurs coefficients, puis calcule et affiche la moyenne.
 
-Lab 2 : (if-else)
+Lab 2 : (if-else)//
 Description : Un programme qui demande à l'utilisateur le poids d'un colis et détermine le coût d'expédition en fonction du poids :
 Si le poids est ≤ 1 kg, le coût est de 10 dinars.
 Si le poids est > 1 kg, le coût est de 20 dinars.
 
-Lab 3 : (if-else if)
+Lab 3 : (if-else if)//
 Description : programme qui calcule le coût d'expédition en fonction du poids d'un colis :
 ≤ 1 kg : 10 dinars.
 1 kg et ≤ 5 kg : 20 dinars.
